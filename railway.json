@@ -1,0 +1,16 @@
+{
+  "name": "SADBWOY-CRASHER",
+  "description": "ICEBACK TECHNOLOGY IS THE GOAT",
+  "repository": "https://github.com/ALPHAKINGLITE/SADBWOY-BUG-V4",
+  "build": {
+    "commands": {
+      "install": "yarn install",
+      "start": "yarn start"
+    }
+  },
+  "envs": {
+    "SESSION_ID": {
+      "description": "Put Your Session Id"
+    }
+  }
+}
