@@ -8,7 +8,7 @@
 
 # SADBWOY-BUG-V4
 
-> This is one of the best bots created by ICEBACK-TECHIES n ALPHA=KING. Deploy and Enjoy. Note The bot has over 700+ features 
+> This is one of the best bots created by ICEBACK-TECHIES n ALPHA=KING n ErrorKing404. Deploy and Enjoy. Note The bot has over 700+ features 
 
 ![KingZord263](https://files.catbox.moe/16vv2b.jpg)
 <h3 align="center">
@@ -110,7 +110,9 @@ First star & Fork the repo using the button below!
 
 
  ICEBACK-XMD TECHIES 
+ 
  ErrorKing404
+ 
 FOLLOW FOR UPDATES
 
 
