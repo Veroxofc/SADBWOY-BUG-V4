@@ -8,6 +8,12 @@
 
 # SADBWOY-BUG-V4
 
+
+zip file download
+https://www.mediafire.com/file/ah4en2y7rw13hod/SADBWOY-BUG-V4%2528free_panel_n_bugs%2529by_ICEBACK-TECHNOLOGY.zip/file
+
+
+
 > This is one of the best bots created by ICEBACK-TECHIES n ALPHA=KING n ErrorKing404. Deploy and Enjoy. Note The bot has over 700+ features 
 
 ![KingZord263](https://files.catbox.moe/16vv2b.jpg)
