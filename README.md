@@ -112,12 +112,9 @@ i![owner](https://files.catbox.moe/mm4bgt.jpg)
 
 
  ICEBACK-XMD TECHIES 
-
- 
- ![error](https://files.catbox.moe/l56lvp.jpg)
  ErrorKing404
  Alpha-king
- ![al](https://files.catbox.moe/bf2v4h.jpg)
+
 FOLLOW FOR UPDATES
 
 
